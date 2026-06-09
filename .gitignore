@@ -16,5 +16,8 @@ env/
 chroma_db/
 chroma/
 
+# Generated artifacts — rebuilt by clean.py and ingest.py
+documents/cleaned/
+
 # macOS
 .DS_Store
